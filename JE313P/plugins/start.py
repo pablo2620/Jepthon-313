@@ -2,7 +2,7 @@ from JE313P import JE313P, BOT_USERNAME
 from Config import Config
 from telethon import events, Button
 
-PM_START_TEXT = """
+PM_START_TEXT = "https://telegra.ph/file/e5c94b6151f1c00d2f630.jpg""
 اهلا بك ! {}
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 ✘انا بوت بسيط لحماية مجموعتك وتشغيل المقاطع الصوتية في المكالمه**.
