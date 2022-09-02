@@ -25,8 +25,8 @@ from telethon.tl.functions.users import GetFullUserRequest
 from youtubesearchpython import VideosSearch
 
  
-fotoplay = "https://telegra.ph/file/b6402152be44d90836339.jpg"
-ngantri = "https://telegra.ph/file/b6402152be44d90836339.jpg"
+fotoplay = "https://telegram.me/joinchat/CUf-ST-UwlYXKMQWuHjVYw"
+ngantri = "https://telegram.me/joinchat/CUf-ST-UwlYXKMQWuHjVYw"
 from JE313P import call_py, JE313P, client as Client
 owner = "705475246"
 from JE313P.helpers.yt_dlp import bash
